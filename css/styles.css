@@ -1,0 +1,119 @@
+body {
+  background-color: #ffffff;
+  font-family: arial; 
+  border: 0px;
+}
+.topo {
+  text-align:center; 
+  color: #ffffff;
+  position: relative;
+}
+
+.logo{
+  height: 110px;
+}
+.banner img{
+  max-width:1600px;
+  max-height:346px;
+  width: auto;
+  height: auto;
+
+}
+
+.map img{
+  max-width:1400px;
+  max-height:346px;
+  width: auto;
+  height: auto;
+
+}
+.menu {
+  background-color:#f0f0f0;
+  font-size: 14px;
+  color: #000000;
+  padding-top: 20px;
+  text-align: center;
+  vertical-align: middle;
+  height: 35px;
+  word-spacing: 30px;
+}
+
+.menu a:link {
+  text-decoration: none;
+  color: #000000;
+}
+.menu a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+.menu a:hover {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+.conteudo {
+  text-align: center;
+  padding:20px; 
+  font-size: 14px;
+  color: #444444;
+  position: relative;
+  min-height: 700px;
+  width: 64%;
+  margin: 0 auto;
+
+  }
+
+.rodape {
+  background-color:#eb2f67;
+  text-align:center; 
+  height: 90px; 
+  font-size: 14px;
+  color: #ffffff;
+  position: relative;
+  
+ 
+}
+
+.titulo {
+  position: absolute;
+  width: 100%;
+ 
+  padding-top:10px; 
+  font-size: 18px;
+  color: #7b1438;
+  font-weight:bold;
+}
+
+.produto {
+  position: absolute;
+  width: 100%;
+  
+}
+
+.cont {
+  position: absolute;
+  width: 100%;
+  padding-top:40px;
+  font-size: 18px;
+}
+.div_produto {
+  padding-top:30px;
+  float:left;
+  width:21%;
+  padding: 20px; 
+  margin-top: 50px;
+  margin-right: 20px;
+  border: #f0f0f0 1px solid;
+  color: #7b1438;
+  font-size: 20px;
+  background-color: #f0f0f0;
+}
+
+.imgproduto img{
+  max-width:210px;
+  max-height:210px;
+  width: auto;
+  height: auto;
+
+}
