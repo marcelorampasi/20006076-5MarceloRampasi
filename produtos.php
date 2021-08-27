@@ -12,7 +12,7 @@
 								<td class="imgproduto"><img src="images/<?php echo $valor[4] ?>"/></td>
 							</tr>
 							<tr>
-							<td><?php echo $valor[1] ?> <br> R$ <?php echo $valor[3] ?>,00</td>
+							<td class="prod"><a href="visualizaproduto.php?produto=<?php echo $valor[0]?>"><?php echo $valor[1] ?> <br> R$ <?php echo $valor[3] ?>,00</a></td>
 							</tr>
 						</table>
 					</div>		
